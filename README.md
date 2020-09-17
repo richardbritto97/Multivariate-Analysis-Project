@@ -5,7 +5,7 @@
 ### Using a dataset that contains information about loan applicants and their default flag 
 
 #### Team no.8:  
-* Adarsh Lalchandani    &nbsp; &nbsp; &nbsp; &nbsp;       https://github.com/AdarshRL2109
+* Adarsh Lalchandani    &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;      https://github.com/AdarshRL2109
 * Karthik Grandhi    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;           https://github.com/karthii24
 * Richard Britto      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          https://github.com/richardbritto97
 
