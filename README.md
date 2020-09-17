@@ -6,8 +6,8 @@
 
 #### Team no.8:  
 * Adarsh Lalchandani    &nbsp; &nbsp; &nbsp; &nbsp;       https://github.com/AdarshRL2109
-* Karthik Grandhi    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;           https://github.com/karthii24
-* Richard Britto      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          https://github.com/richardbritto97
+* Karthik Grandhi    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;           https://github.com/karthii24
+* Richard Britto      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          https://github.com/richardbritto97
 
 #### Data Dictionary:
 
