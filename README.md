@@ -4,7 +4,7 @@
 
 ### Using a dataset that contains information about loan applicants and their default flag 
 
-##### Team no.8:  
+#### Team no.8:  
 * Adarsh Lalchandani
 * Karthik Grandhi
 * Richard Britto 
