@@ -35,15 +35,15 @@ delinq_2yrs | The past-due amount owed for the accounts on which the borrower is
 
 #### SPECIFIC QUESTIONS:
 
-What is the effect of loan amount to the percentage of loan defaults?
+* What is the effect of loan amount to the percentage of loan defaults?
 
-What effect does the borrowers loan enquiry in the last 6 months have on percentage of defaults?
+* What effect does the borrowers loan enquiry in the last 6 months have on percentage of defaults?
 
-How does the number of active credit lines of the borrower affect the percentage of defaults?
+* How does the number of active credit lines of the borrower affect the percentage of defaults?
 
-How does the DTI affect the number of loan defaults?
+* How does the DTI affect the number of loan defaults?
 
-What is the effect of delinquency by the borrower in the last 12 months affect the loan default 	          
+* What is the effect of delinquency by the borrower in the last 12 months affect the loan default 	          
                  percentage
 
 #### SPECIFIC ANALYSIS & GRAPHS:
