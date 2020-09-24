@@ -43,15 +43,17 @@ delinq_2yrs | The past-due amount owed for the accounts on which the borrower is
 
 * How does the DTI affect the number of loan defaults?
 
-* What is the effect of delinquency by the borrower in the last 12 months affect the loan default 	          
-                 percentage
+* What is the effect of delinquency by the borrower in the last 12 months affect the loan default 	          percentage
 
 #### SPECIFIC ANALYSIS & GRAPHS:
 
-Univariate Analysis of specific variables vs number of defaults
-Bivariate Analysis on continuous variables vs default percentages
-Bivariate Analysis on categorical variables vs default percentages
-Multivariate Analysis to create the co-relation plot and find significant of each feature 
+*Univariate Analysis of specific variables vs number of defaults
+
+*Bivariate Analysis on continuous variables vs default percentages
+
+*Bivariate Analysis on categorical variables vs default percentages
+
+*Multivariate Analysis to create the co-relation plot and find significant of each feature 
 	
 #### KEY PROCESSING INDEX: 
 
