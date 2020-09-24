@@ -33,3 +33,66 @@ total_pymnt | Payments received to date for total amount funded
 total_rec_late_fee | Late fees received to date
 delinq_2yrs | The past-due amount owed for the accounts on which the borrower is now delinquent.
 
+#### SPECIFIC QUESTIONS:
+
+	What is the effect of loan amount to the percentage of loan defaults?
+
+	What effect does the borrowers loan enquiry in the last 6 months have on percentage of defaults?
+
+	How does the number of active credit lines of the borrower affect the percentage of defaults?
+
+	How does the DTI affect the number of loan defaults?
+
+	What is the effect of delinquency by the borrower in the last 12 months affect the loan default 	          
+                 percentage
+
+#### SPECIFIC ANALYSIS & GRAPHS:
+
+Univariate Analysis of specific variables vs number of defaults
+Bivariate Analysis on continuous variables vs default percentages
+Bivariate Analysis on categorical variables vs default percentages
+Multivariate Analysis to create the co-relation plot and find significant of each feature 
+	
+#### KEY PROCESSING INDEX: 
+
+Key Processing Index (KPI) can be achievable by determining what is your objectives, how you plan on achieving them, and who can act on this information. The following are the KPI’s which will help us to evaluate and determine the final analysis. 
+
+Key Processing Indexes | 
+------------ | 
+Default Percentage |
+Interest Rate |
+Annual Income |
+Loan Amount |
+Loan inquiry in lat 6 months |
+Delinquency in last 12 months |
+Purpose for loan |
+Debt to Income ratio |
+Number of active credit lines |
+
+KPIs need to be defined according to critical or core business objectives.
+Following steps helps to define a KPI: 
+
+1.   What is your desired outcome? 
+	Classify and predict loan defaulters based on information given at the time of
+ 	request
+
+2.   Why does this outcome matter? 
+	There is a particular business interest and risk prevention by the outcome of our
+  	analysis
+
+3.   How are you going to measure progress? 
+	Progress will be measured by the accuracy and predictive power of the different 
+	models which we will be training and testing
+
+4.   How can you influence the outcome? 
+	To find out the most affecting parameter that drives default rates, we shall achieve model 			parsimony so as to have specific influencing variables
+	
+
+5.    Who is responsible for the business outcome? 
+	The lenders are responsible for the business outcome
+
+6.   How are borrowers benefiting from this? 
+	Borrowers will get a value assigned to their profile
+
+7.   How often will you review progress towards the outcome? 
+	Will be reviewing on a quarterly basis to see the effects. 
