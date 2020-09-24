@@ -47,13 +47,13 @@ delinq_2yrs | The past-due amount owed for the accounts on which the borrower is
 
 #### SPECIFIC ANALYSIS & GRAPHS:
 
-*Univariate Analysis of specific variables vs number of defaults
+* Univariate Analysis of specific variables vs number of defaults
 
-*Bivariate Analysis on continuous variables vs default percentages
+* Bivariate Analysis on continuous variables vs default percentages
 
-*Bivariate Analysis on categorical variables vs default percentages
+* Bivariate Analysis on categorical variables vs default percentages
 
-*Multivariate Analysis to create the co-relation plot and find significant of each feature 
+* Multivariate Analysis to create the co-relation plot and find significant of each feature 
 	
 #### KEY PROCESSING INDEX: 
 
@@ -75,26 +75,23 @@ KPIs need to be defined according to critical or core business objectives.
 Following steps helps to define a KPI: 
 
 1.   What is your desired outcome? 
-	Classify and predict loan defaulters based on information given at the time of
- 	request
+	Classify and predict loan defaulters based on information given at the time of request.
 
 2.   Why does this outcome matter? 
-	There is a particular business interest and risk prevention by the outcome of our
-  	analysis
+	There is a particular business interest and risk prevention by the outcome of ouranalysis.
 
 3.   How are you going to measure progress? 
-	Progress will be measured by the accuracy and predictive power of the different 
-	models which we will be training and testing
+	Progress will be measured by the accuracy and predictive power of the different models which we 	will be training and testing.
 
 4.   How can you influence the outcome? 
-	To find out the most affecting parameter that drives default rates, we shall achieve model 			parsimony so as to have specific influencing variables
+	To find out the most affecting parameter that drives default rates, we shall achieve model 		parsimony so as to have specific influencing variables.
 	
 
 5.    Who is responsible for the business outcome? 
-	The lenders are responsible for the business outcome
+	The lenders are responsible for the business outcome.
 
 6.   How are borrowers benefiting from this? 
-	Borrowers will get a value assigned to their profile
+	Borrowers will get a value assigned to their profile.
 
 7.   How often will you review progress towards the outcome? 
 	Will be reviewing on a quarterly basis to see the effects. 
