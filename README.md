@@ -55,7 +55,7 @@ delinq_2yrs | The past-due amount owed for the accounts on which the borrower is
 
 * Multivariate Analysis to create the co-relation plot and find significant of each feature 
 	
-#### KEY PROCESSING INDEX: 
+#### KEY PERFORMANCE INDICATORS: 
 
 Key Performance Indicators (KPI) can be achievable by determining what is your objectives, how you plan on achieving them, and who can act on this information. The following are the KPI’s which will help us to evaluate and determine the final analysis. 
 
