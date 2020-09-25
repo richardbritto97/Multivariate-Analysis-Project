@@ -57,9 +57,9 @@ delinq_2yrs | The past-due amount owed for the accounts on which the borrower is
 	
 #### KEY PROCESSING INDEX: 
 
-Key Processing Index (KPI) can be achievable by determining what is your objectives, how you plan on achieving them, and who can act on this information. The following are the KPI’s which will help us to evaluate and determine the final analysis. 
+Key Performance Indicators (KPI) can be achievable by determining what is your objectives, how you plan on achieving them, and who can act on this information. The following are the KPI’s which will help us to evaluate and determine the final analysis. 
 
-Key Processing Indexes | 
+Key Performance Indicators | 
 ------------ | 
 Default Percentage |
 Interest Rate |
