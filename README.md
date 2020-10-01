@@ -12,6 +12,13 @@
 #### Hypothesis: 
 There exists some co-relation between the information we get from a user and the probability of that person to be defaulting with an outcome being either a defaulter or not a defaulter. The strength of co-relation will vary for each distinct variable and we will determine the effect of each variable over the outcome of this prediction.
 
+#### Hypothesis:
+
+Research Question | Hypothesis | Null Hypothesis
+------------ | -------------
+Can the loan ammount adjustments improve loan default rates? | Borrowers who have high loan amount are more likely to be charged off than the borrowers with low loan amount | There is no relationship between loan amount and probability to default
+
+
 #### Data Dictionary:
 
 Variable | Description
