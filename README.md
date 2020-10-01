@@ -16,7 +16,11 @@ There exists some co-relation between the information we get from a user and the
 
 Research Question | Hypothesis | Null Hypothesis
 ------------ | ------------- |  -------------
+How does the interest rates affect loan default rates? | Borrowers who have high interest rate are more likely to default than the borrowers with low interest rate | There is no relationship between the interest rate and probability to default
+How is the borrower's debt to income ratio affecting their chances of defaulting? | Borrowers who have high debt to income ratio have high chances of defaulting thatn the borrowers with low debt to income ratio | There is no relationship between the borrower's debt to income ratio and the probability to default
 Can the loan ammount adjustments improve loan default rates? | Borrowers who have high loan amount are more likely to be charged off than the borrowers with low loan amount | There is no relationship between loan amount and probability to default
+How does the borrower's annual income affect their chances of defaulting? | Borrower's having high annual income have less chances to default thant the borrowers having low or average income | There is no relationship between the borrower's annual income and the probability to default
+
 
 
 #### Data Dictionary:
