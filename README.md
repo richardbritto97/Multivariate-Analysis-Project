@@ -9,8 +9,8 @@
 * Karthik Grandhi    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp;           https://github.com/karthii24
 * Richard Britto      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp;          https://github.com/richardbritto97
 
-#### Hypothesis: 
-There exists some co-relation between the information we get from a user and the probability of that person to be defaulting with an outcome being either a defaulter or not a defaulter. The strength of co-relation will vary for each distinct variable and we will determine the effect of each variable over the outcome of this prediction.
+#### Goal: 
+There exists some co-relation between the information we get from a user and the probability of that person to be defaulting with an outcome being either a defaulter or not a defaulter. We will perform analysis and develop a model by which we can classify & predict the defaulters and not defaulters
 
 #### Hypothesis:
 
