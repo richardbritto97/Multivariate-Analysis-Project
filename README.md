@@ -30,19 +30,24 @@ Variable | Description
 member_id | Unique identifier
 loan_status | Current status of the loan
 int_rate | Interest Rate on the loan
-default_flag | A Boolean value where 0 means no default & 1 means default
-inq_last_6mths | The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
-Annual_inc | The self-reported annual income provided by the borrower during registration.
-Purpose | A category provided by the borrower for the loan request. 
-open_acc | The number of open credit lines in the borrower's credit file.
-No_of_Ac | Categorical value for open_acc variable
-emp_length | The job title supplied by the Borrower when applying for the loan.
-loan_amnt | The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+Bin_int | int_rate bins for categorical use
 dti | A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
-revol_util | Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit.
-total_pymnt | Payments received to date for total amount funded
-total_rec_late_fee | Late fees received to date
+Bin_dti | dti bins for categorical use
+Default_flag | A Boolean value where 0 means no default & 1 means default
+No_of_Enquiry | The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
+enq_buckets | bucket or groups of enquiry for categorical use
+annual_inc | The self-reported annual income provided by the borrower during registration.
+Income_bins | bins of income for categorical use and to map outliers easily
+Purpose | A category provided by the borrower for the loan request. 
+home_ownership | status of the ownership of the borrower's property, takes categorical value
+purpose | states the purpose for which the loan was taken
+open_acc | The number of open credit lines in the borrower's credit file.
+emp_length | The job title supplied by the Borrower when applying for the loan.
+verification_status | the status of verification stating whether source verified, verified, or not verified
 delinq_2yrs | The past-due amount owed for the accounts on which the borrower is now delinquent.
+loan_amnt | The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+Bins_loan_amt | Bins for loan_amnt for categorical use
+
 
 #### SPECIFIC QUESTIONS:
 
