@@ -15,7 +15,7 @@ There exists some co-relation between the information we get from a user and the
 #### Hypothesis:
 
 Research Question | Hypothesis | Null Hypothesis
------------- | -------------
+------------ | ------------- |  -------------
 Can the loan ammount adjustments improve loan default rates? | Borrowers who have high loan amount are more likely to be charged off than the borrowers with low loan amount | There is no relationship between loan amount and probability to default
 
 
