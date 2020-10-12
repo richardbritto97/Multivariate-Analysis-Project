@@ -111,5 +111,3 @@ Following steps helps to define a KPI:
 
 #### 7.   How often will you review progress towards the outcome? 
 -> Will be reviewing on a quarterly basis to see the effects. 
-
-Conclusion
